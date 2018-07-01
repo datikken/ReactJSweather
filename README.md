@@ -1,1 +1,2 @@
-# ReactJSweather
+npm install
+npm start
